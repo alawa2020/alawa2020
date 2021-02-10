@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <h4> 
-    🏃 Happy Coding 🏃 
-  </h4>
+
 </div>
 <p align="center">
   <a href="https://github.com/kogisin">
