@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Huder!
+### Hi there 
 
 ### Programming Languages....  
 
@@ -18,8 +18,6 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{ALAWA2020}/count.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
