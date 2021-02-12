@@ -16,6 +16,8 @@
 		<img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/64/000000/php-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"/>
+	
 </p>
 
 
