@@ -19,21 +19,15 @@
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  <h4> 
-    🏃 Happy Coding 🏃 
-  </h4>
-</div>
-<p>
+### ⚙️ &nbsp;GitHub Stats
+<p align="center">
 <a href="https://github.com/ALAWA2020">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALAWA2020&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALAWA2020&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
-### Contacto: :coffee:
+### :coffee: Contacto: 
 <p align="center">
 <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
