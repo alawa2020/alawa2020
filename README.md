@@ -35,10 +35,11 @@
 <a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+	[![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
 </p>
 
 <!-- ![visitas](https://visitor-badge.glitch.me/badge?page_id=ALAWA2020/ALAWA2020) -->
-[![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
+
 
 
 
