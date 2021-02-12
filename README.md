@@ -5,7 +5,7 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"/>
+	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/64/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/64/000000/css3.png"/>
