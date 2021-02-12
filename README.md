@@ -44,20 +44,6 @@
 
 
 ### Contacto: :coffee:
-<p align="center">
-	<a href="https://github.com/ALAWA2020"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/#"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
-
-<!-- ![visitas](https://visitor-badge.glitch.me/badge?page_id=ALAWA2020/ALAWA2020) -->
-[![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
-
-####
-
 <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
@@ -65,5 +51,9 @@
 <a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
+
+<!-- ![visitas](https://visitor-badge.glitch.me/badge?page_id=ALAWA2020/ALAWA2020) -->
+[![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
+
+
 
