@@ -19,7 +19,8 @@
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png"/>
+	<img width="10%" style="padding:5px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>
+	
 	<!--
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/64/000000/php-logo.png"/>
