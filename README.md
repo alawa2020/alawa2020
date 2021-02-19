@@ -21,10 +21,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png"/>
 	
-	<!--
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/64/000000/php-logo.png"/>
-	-->
+	
 </p>
 
 
@@ -49,5 +46,9 @@
 <!-- ![visitas](https://visitor-badge.glitch.me/badge?page_id=ALAWA2020/ALAWA2020) -->
 [![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
 
+<!--
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/64/000000/php-logo.png"/>
+	-->
 
 
