@@ -5,7 +5,7 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/64/000000/php-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/480/000000/php-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
