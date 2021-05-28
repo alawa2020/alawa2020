@@ -25,8 +25,8 @@
 ### ⚙️ &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/ALAWA2020">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ALAWA2020&show_icons=true&theme=radical" />
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALAWA2020&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ALAWA2020&show_icons=true&theme=merko" />
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALAWA2020&theme=merko&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
