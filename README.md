@@ -5,6 +5,7 @@
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
@@ -17,7 +18,6 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/postgreesql.png"/>
-	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>	
 </p>
 
