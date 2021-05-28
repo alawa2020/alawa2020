@@ -16,7 +16,6 @@
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"/>
-	
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/postgreesql.png"/>
 	<img width="10%" style="padding:5px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>	
