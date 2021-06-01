@@ -11,7 +11,6 @@
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"/>
 	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
@@ -46,6 +45,7 @@
 [![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
 
 <!--
+<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/480/000000/php-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/wordpress_socialnetwork_20004.png"/>
