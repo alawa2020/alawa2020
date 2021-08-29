@@ -19,6 +19,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
 	
 </p>
