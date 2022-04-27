@@ -7,7 +7,6 @@
 	
 </p>
 
-![visitas](https://visitor-badge.glitch.me/badge?page_id=ALAWA2020/ALAWA2020)
 [![HitCount](https://views.whatilearened.today/views/github/ALAWA2020/creative-profile-readme.svg)](https://github.com/ALAWA2020/creative-profile-readme)
 
 
